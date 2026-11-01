@@ -1,1 +1,1 @@
-# SS-client-beta
+Open in Android Studio using JDK 17. Sync Gradle, then Build > Build APK(s). Includes native app, overlay permission, floating SS bubble, panel CPS counter (panel taps only), and launch Minecraft. It does not read Minecraft FPS/ping or modify the game HUD.
